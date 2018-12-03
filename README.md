@@ -18,8 +18,13 @@
  ### Computing the shared key 
  
  Both Alice & Bob have:
-  PartnerSalt, SelfSalt, IdentityKeyPartner(Public), 
-  IdentiyKeySelf(Public/Private), EphemeralKeyPartner(Public), EphemeralKeySelf(Public/Private)
+ 
+     PartnerSalt, 
+     SelfSalt,
+     IdentityKeyPartner(Public), 
+     IdentiyKeySelf(Public/Private),
+     EphemeralKeyPartner(Public), 
+     EphemeralKeySelf(Public/Private)
   
   
  Both Compute:
