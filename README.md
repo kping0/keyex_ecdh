@@ -38,4 +38,4 @@
       
       SHARED_KEY = SHA512(K1 | K23 | K4)
       
-  ** ECDH_hash_salt(k1, k2, salt) returns SHA512( ECDH(k1,k2) | salt) **
+      /* ECDH_hash_salt(k1, k2, salt) returns SHA512( ECDH(k1,k2) | salt) */
