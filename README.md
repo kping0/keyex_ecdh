@@ -1,5 +1,5 @@
-# Curve25519 Key-Exchange
-## The goals of this library are to be low level, minimalistic and to maintain Perfect-Forward-Secrecy
+# Curve25519 Key-Exchange in C
+## Small & PFS
 
 
 ### Example
